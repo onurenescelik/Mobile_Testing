@@ -42,7 +42,7 @@ public class C04WebKontrol {
          Calisma:
          “https://amazon.com" git
          sign in tikla
-         Verify “Welcome” text from sign in page 
+         Verify “Welcome” text from sign in page
           */
         Thread.sleep(4000);
         driver.get("https://www.amazon.com/");
